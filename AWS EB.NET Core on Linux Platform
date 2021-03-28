@@ -77,7 +77,7 @@
   <body>
     <div class="textColumn">
       <h1>Karen Müller's Webpage. Welcome!</h1>
-      <p>Hi, I'm Karen and this is my first AWS Elastic Beanstalk .NET Core on Linux application which is currently running on my own dedicated environment in the AWS Cloud</p>
+      <p>Hi, I'm Karen and this is an AWS Elastic Beanstalk .NET Core I created on Linux application which is currently running on my own dedicated environment in the AWS Cloud</p>
       <p>This environment is launched with Elastic Beanstalk .NET Core on Linux Platform</p>
     </div>
     <div class="linksColumn">
