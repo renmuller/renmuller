@@ -12,9 +12,9 @@ My name is Karen and I am an inquisitive, optimistic Github newbie. A fan of all
 - ⚡ Fun fact 1: I have studied in England, Jamaica, India and Austria.
 - ⚡ Fun fact 2: I actually have 3 x OCP-Java qualifications (from a while back)...but never used it 👀 (Need a complete update - a refresher course is on my ToDo list!)👌
 
- #KAREN MÜLLER#
+ # KAREN MÜLLER #
 
- ###AWS Cloud Practitioner###
+ ### *AWS Cloud Practitioner* ###
 
 	E		renmuller121@gmail.com		
   	A		Wolverhampton, UK		
