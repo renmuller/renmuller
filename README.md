@@ -17,8 +17,8 @@ My name is Karen and I am an inquisitive, optimistic Github newbie. A fan of all
  ###AWS Cloud Practitioner###
 
 	E		renmuller121@gmail.com		
-  A		Wolverhampton, UK		
-  W		LinkedIn: Karen m muller
+  	A		Wolverhampton, UK		
+  	W		LinkedIn: Karen m muller
 
 
 
