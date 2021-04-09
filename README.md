@@ -18,7 +18,7 @@ My name is Karen and I am an inquisitive, optimistic Github newbie. A fan of all
 
 	E		renmuller121@gmail.com		
   	A		Wolverhampton, UK		
-  	W		LinkedIn: Karen m muller
+  	W		LinkedIn: [Karen m muller](http://www.linkedin.com/in/karen-m-muller "KarensLinkInPage") and http://www.linkedin.com/in/karen-m-muller
 
 
 
@@ -28,13 +28,9 @@ My name is Karen Müller and I am passionate about cloud technologies.  I am soo
 
 **Tech Stack:**
 AWS Certified Cloud Practitioner (final exam April 2021)
-
 In depth knowledge of Amazon Web Services (AWS). Comfortable with provisioning and Containers, creating EC2 instances, using Lambda, S3, EBS, Elastic Beanstalk
-
 Working knowledge of Python
-
 Working knowledge of Linux Bash Shell
-
 Knowledge of Agile methodologies such as the SDLC and Waterfall
 
 #### QUALIFICATIONS ####
