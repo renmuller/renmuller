@@ -27,11 +27,11 @@ My name is Karen and I am an inquisitive, optimistic Github newbie. A fan of all
 My name is Karen Müller and I am passionate about cloud technologies.  I am soon to be a qualified AWS Certified Cloud Practitioner as I am a self-starter with a practical, problem-solving mindset who enjoys learning new skills and putting knowledge into practice. A confident, independent thinker with a detailed knowledge of AWS and hands-on experience using Python and Linux Bash Shell. Formerly an Oracle Certified Java Developer (Web Component and Business Component) and I have 2 years’ teaching experience as ICT Instructor teaching IT, HTML and Robotics) to underfunded UK schools.
 
 **Tech Stack:**
-AWS Certified Cloud Practitioner (final exam April 2021)
-In depth knowledge of Amazon Web Services (AWS). Comfortable with provisioning and Containers, creating EC2 instances, using Lambda, S3, EBS, Elastic Beanstalk
-Working knowledge of Python
-Working knowledge of Linux Bash Shell
-Knowledge of Agile methodologies such as the SDLC and Waterfall
+AWS Certified Cloud Practitioner (final exam April 2021).
+In depth knowledge of Amazon Web Services (AWS). Comfortable with provisioning and Containers, creating EC2 instances, using Lambda, S3, EBS, Elastic Beanstalk.
+Working knowledge of Python.
+Working knowledge of Linux Bash Shell.
+Knowledge of Agile methodologies such as the SDLC and Waterfall.
 
 #### QUALIFICATIONS ####
 
