@@ -18,7 +18,7 @@ My name is Karen and I am an inquisitive, optimistic Github newbie. A fan of all
 
 	E		renmuller121@gmail.com		
   	A		Wolverhampton, UK		
-  	W		LinkedIn: [Karen m muller](http://www.linkedin.com/in/karen-m-muller "KarensLinkInPage") and http://www.linkedin.com/in/karen-m-muller
+  	W		LinkedIn: [Named Link](http://www.linkedin.com/in/karen-m-muller "KarensLinkInPage") and http://www.linkedin.com/in/karen-m-muller
 
 
 
