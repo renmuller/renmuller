@@ -87,5 +87,3 @@ ICT Instructor. Teaching basic HTML and Robotics to KS3 level school groups. Bec
 
 __Retail – (1999 – 2001)__		
 		
-		Markup : [Go To Top](OBJECTIVE)
-          section_title<a name="section_name"></a>
