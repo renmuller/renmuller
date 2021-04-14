@@ -2,14 +2,14 @@
 
 My name is Karen and I am a tech enthusiast. I have a particular interest in Cloud systems and will soon qualify as a Certified Cloud Practitioner. I enjoy learning new languages (human and computer) and am currently deep-diving into AWS (Amazon Web Services) and Python. 
 
-- 🔭 I’m currently working on my AWS Certified Cloud Practitioner qualification
-- 🌱 I’m currently learning AWS, Python, Linux Bash Shell at TechTalent Academy
-- 👯 I’m looking to collaborate on improving my internet visibility via social media, vlog posts etc.
-- 🤔 I’m looking for help with starting a career in AWS.
-- 💬 Ask me about: anything - but you can also take a look at my CV down below.
+- 🔭 I’m working on: attaining my AWS Certified Cloud Practitioner qualification
+- 🌱 I’m currently learning: Python, Linux Bash Shell (as well as AWS) at TechTalent Academy
+- 👯 I’m looking to collaborate on: improving my internet visibility via social media, vlog posts etc.
+- 🤔 I’m looking for help with: starting a career Tech.
+- 💬 Ask me about: anything (but you can also take a look at my CV down below)!
 - 📫 How to reach me: www.linkedin.com/in/karen-m-muller or email me at: renmuller121@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact 1: I have studied in England, Jamaica, India and Austria.
+- ⚡ Fun fact 1: I have studied and lived in England, Jamaica, India and Austria.
 - ⚡ Fun fact 2: I actually have 3 x OCP-Java qualifications (from a while back)...but never used it 👀 (Need a complete update - a refresher course is on my ToDo list!)👌
 
  # KAREN MÜLLER #
@@ -24,41 +24,43 @@ My name is Karen and I am a tech enthusiast. I have a particular interest in Clo
 
 #### OBJECTIVE	####	
 		
-My name is Karen Müller and I am passionate about cloud technologies.  I am soon to be a qualified AWS Certified Cloud Practitioner as I am a self-starter with a practical, problem-solving mindset who enjoys learning new skills and putting knowledge into practice. A confident, independent thinker with a detailed knowledge of AWS and hands-on experience using Python and Linux Bash Shell. Formerly an Oracle Certified Java Developer (Web Component and Business Component) and I have 2 years’ teaching experience as ICT Instructor teaching IT, HTML and Robotics) to school groups and clubs.
+My name is Karen Müller and I am passionate about cloud technologies. I am soon to be a qualified AWS Certified Cloud Practitioner having studied for several months in the AWS bootcamp at TechTalent Academy. I am a self-starter with a practical, problem-solving mindset who enjoys being thrown into challenging situations and having to learn on the fly, grasping new skills and being able to put my knowledge into practice. A confident, independent thinker having a detailed knowledge of AWS with hands-on experience using the AWS Manangement Console and also experience using Python and Linux Bash Shell. Formerly an Oracle Certified Java Developer (Web Component and Business Component) and I have 2 years’ teaching experience as an ICT Instructor, teaching IT, HTML and Robotics to school groups and clubs.
 
-**Tech Stack:**
-AWS Certified Cloud Practitioner (final exam April 2021).
-In depth knowledge of Amazon Web Services (AWS). Comfortable with provisioning and Containers, creating EC2 instances, using Lambda, S3, EBS, Elastic Beanstalk.
-Working knowledge of Python.
-Working knowledge of Linux Bash Shell.
-Knowledge of Agile methodologies such as the SDLC and Waterfall.
+**Tech Stack:**<br>
+AWS Certified Cloud Practitioner (final exam April 2021)<br>
+In depth knowledge of Amazon Web Services (AWS) - Comfortable provisioning AWS resources i.e. Containers, creating EC2 instances, using Lambda, S3, EBS, Elastic Beanstalk<br>
+Working knowledge of Python<br>
+Working knowledge of Linux Bash Shell<br>
+Knowledge of Agile methodologies such as the SDLC and Waterfall
 
 #### QUALIFICATIONS ####
 
-AWS Certified Cloud Practitioner (final exam - end April 2021)
+AWS Certified Cloud Practitioner (tbc -April 2021)
 
 OCP-JP / SCJP (Oracle Certified Programmer – Java Programmer) (2011) (Dehradun, India)
 OCP-WCD / SCWCD (Web Component Development) (2011) (Dehradun, India)
 OCP-BCD / SCBCD (Business Component Development) (2011) (Dehradun, India)
 
-#### EDUCATION ####
-
-German Language A1, A2, B1 & B2 Levels (Vienna, Austria)
-Spanish GCSE Grade B (Birmingham, UK)
-GNVQ - Art & Design and English (Solihull Sixth Form College, Solihull, UK)
-10 x GCSEs A-C incl. English, Advanced Maths, Double Science, French (Lyndon Secondary School. Solihull, UK)
-
 #### OTHER KNOWLEDGE AND EXPERIENCE ####
+
 EJB, Visual Basic / VB.NET, Delphi Millennium/ ePex, MS Office Access, Excel, Word, Outlook, PowerPoint, AQUA and ABS, Adobe Flash, EHR, Lotus Notes, ECDL course (L1 & L2), Typing & Keyboarding qualification (40-45 wpm), CLAIT (L1 & L2), PAS System (Medical), HRIS / ESR Systems (Electronic Staff Records Systems)
 
 #### CERTIFICATES ####
+
 Data Protection, Risk Management, Incident Reporting, Conflict Management, Equality & Diversity, First Aid, AED and Infant First Aid, Health & Safety, Fire Safety, Infection Control, Manual Handling.
 
 #### COMMUNICATION & LEADERSHIP ####
-Advanced writing skills, Detail oriented, Project Management experienced. Interviewing experience, Research skills, Content creation. Good interpersonal skills. Comfortable public speaking and as client/member liaison. Good prioritization skills. A resourceful team player with an eye for detail and identifying customer needs. Committed to learning and developing myself with new skills and processes. Experience in key support roles for both public and private sectors, mainly Government Organisations such as BCC and the NHS. Producing content of high quality to support team agendas. Able to handle sudden fluctuating workloads. Meeting deadlines and maintaining calm under pressure Experience creating and leading marketing campaigns for events. Temporary Vocal Director of a multi-national Community Choir in Vienna, Austria.  Previous experience teaching classes in HTML and Robotics. I am a Qualified Fencing Instructor with the British Fencing Association and a Qualified Archery Leader.
+Previous experience teaching classes of students aged 8-21. Alongside leading classes of school groups and adults in basic HTML and Robotics using IR robots, I also taught active lessons in Fencing, Archery (as a Qualified Fencing Instructor with the British Fencing Association and a Qualified Archery Leader) and in Team Building exercises. More recently, I have held the position of Vocal Director of a multi-national Community Choir in Vienna, Austria, teaching vocal warm-up techniques, section leads and group harmonies. I have advanced writing and administration skills, experienced in Project Management, interviewing job applicants, good research skills and experience in content creation. Displaying excellent interpersonal skills, I am comfortable with public speaking or as an Executive or Client liaison. With an eye for detail and identifying customer needs, I am a resourceful team player. Committed to learning and developing myself with new skills and processes. I am experienced in key support roles for both public and private sectors, mainly Government Organisations such as BCC and the NHS. I know how to produce content of high quality to support team agendas. Able to handle sudden fluctuating workloads with minimal strain, maintaining calm under pressure and have experience creating and leading marketing campaigns for events.   
+
+#### EDUCATION ####
+
+German Language A1, A2, B1 & B2 Levels (Vienna, Austria)<br>
+Spanish GCSE Grade B (Birmingham, UK)<br>
+GNVQ - Art & Design and English (Solihull Sixth Form College, Solihull, UK)<br>
+10 x GCSEs A-C incl. English, Advanced Maths, Double Science, French (Lyndon Secondary School. Solihull, UK)<br>
 		
 #### EXPERIENCE	####	
-**Team Administrator  –   NHS Primary Care Trust (2009-2011)**
+**Team Administrator – NHS Primary Care Trust (2009-2011)**
 Project research. Transcribe medical reviews crucial to patient care. Deliver time-sensitive materials to Team Managers. Microsoft Office incl. Excel, Access Database and PowerPoint. Organize meetings. Arrange travel for Directors. Conduct minutes for weekly meetings. Maintain staff holiday and absence records. Plan and re-prioritize fluctuating workloads. 
 
 **Recruitment and Training Assistant – NHS Birmingham Children’s Hospital (2008)**
