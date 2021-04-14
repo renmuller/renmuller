@@ -24,7 +24,7 @@ My name is Karen and I am a tech enthusiast. I have a particular interest in Clo
 
 #### OBJECTIVE	####	
 		
-My name is Karen Müller and I am passionate about cloud technologies.  I am soon to be a qualified AWS Certified Cloud Practitioner as I am a self-starter with a practical, problem-solving mindset who enjoys learning new skills and putting knowledge into practice. A confident, independent thinker with a detailed knowledge of AWS and hands-on experience using Python and Linux Bash Shell. Formerly an Oracle Certified Java Developer (Web Component and Business Component) and I have 2 years’ teaching experience as ICT Instructor teaching IT, HTML and Robotics) to underfunded UK schools.
+My name is Karen Müller and I am passionate about cloud technologies.  I am soon to be a qualified AWS Certified Cloud Practitioner as I am a self-starter with a practical, problem-solving mindset who enjoys learning new skills and putting knowledge into practice. A confident, independent thinker with a detailed knowledge of AWS and hands-on experience using Python and Linux Bash Shell. Formerly an Oracle Certified Java Developer (Web Component and Business Component) and I have 2 years’ teaching experience as ICT Instructor teaching IT, HTML and Robotics) to school groups and clubs.
 
 **Tech Stack:**
 AWS Certified Cloud Practitioner (final exam April 2021).
@@ -83,5 +83,5 @@ __Healthcare Consultant and PhotoLab Advisor -  Boots The Chemist (2003-2004)__
 Sort prescriptions. Assist and advise customers on over-the-counter healthcare products
 
 __ICT & Activity Instructor - Kingswood Activity Centre (2001-2003)__
-ICT Instructor. Teaching basic HTML and Robotics to KS3 level school groups. Becoming Group Lead and Project Lead.
+ICT Instructor. Becoming Project Leader and then Group Leader. Teaching basic HTML and Robotics to school groups to help underfunded schools meet government guidlines whereby all students were educated to Key Stage 3. 
 
