@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Karen and I am an inquisitive, optimistic Github newbie. A fan of all things tech, I enjoy learning new languages (human and computer) and am currently deep-diving into AWS and Python. 
+My name is Karen and I am a tech enthusiast. I have a particular interest in Cloud systems and will soon qualify as a Certified Cloud Practitioner. I enjoy learning new languages (human and computer) and am currently deep-diving into AWS (Amazon Web Services) and Python. 
 
 - 🔭 I’m currently working on my AWS Certified Cloud Practitioner qualification
 - 🌱 I’m currently learning AWS, Python, Linux Bash Shell at TechTalent Academy
