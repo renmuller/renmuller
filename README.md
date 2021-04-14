@@ -24,7 +24,7 @@ My name is Karen and I am a tech enthusiast. I have a particular interest in Clo
 
 #### OBJECTIVE	####	
 		
-My name is Karen Müller and I am passionate about cloud technologies. I am soon to be a qualified AWS Certified Cloud Practitioner having studied for several months in the AWS bootcamp at TechTalent Academy. I am a self-starter with a practical, problem-solving mindset who enjoys being thrown into challenging situations and having to learn on the fly, grasping new skills and being able to put my knowledge into practice. A confident, independent thinker having a detailed knowledge of AWS with hands-on experience using the AWS Manangement Console and also experience using Python and Linux Bash Shell. Formerly an Oracle Certified Java Developer (Web Component and Business Component) and I have 2 years’ teaching experience as an ICT Instructor, teaching IT, HTML and Robotics to school groups and clubs.
+My name is Karen Müller and I am passionate about cloud technologies. I am soon to be a qualified AWS Certified Cloud Practitioner having studied for several months in the AWS bootcamp at TechTalent Academy. I am a self-starter with a practical, problem-solving mindset who enjoys being thrown into challenging situations and having to learn on the fly, grasping new skills and being able to put my knowledge into practice. A confident, independent thinker having a detailed knowledge of AWS with hands-on experience using the AWS Management Console and also experience using Python and Linux Bash Shell. Formerly an Oracle Certified Java Developer (Web Component and Business Component) and I have 2 years’ teaching experience as an ICT Instructor, teaching IT, HTML and Robotics to school groups and clubs.
 
 **Tech Stack:**<br>
 AWS Certified Cloud Practitioner (final exam April 2021)<br>
@@ -81,9 +81,9 @@ Research Produce materials Senior Trust members. Purchasing. Annual Budget contr
 __Trainee Manager  -  IPG ImportsLtd (2004)__
 B2B Sales. Conduct 1st & 2nd stage interviews. Training / on-boarding of new starters. Stock check and security checks.
 
-__Healthcare Consultant and PhotoLab Advisor -  Boots The Chemist (2003-2004)__
+__Healthcare Consultant and PhotoLab Advisor -  Boots the Chemist (2003-2004)__
 Sort prescriptions. Assist and advise customers on over-the-counter healthcare products
 
 __ICT & Activity Instructor - Kingswood Activity Centre (2001-2003)__
-ICT Instructor. Becoming Project Leader and then Group Leader. Teaching basic HTML and Robotics to school groups to help underfunded schools meet government guidlines whereby all students were educated to Key Stage 3. 
+ICT Instructor. Becoming Project Leader and then Group Leader. Teaching basic HTML and Robotics to school groups to help underfunded schools meet government guidelines whereby all students were educated to Key Stage 3. 
 
