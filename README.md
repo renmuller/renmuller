@@ -69,13 +69,13 @@ Responsible for 1st stage application processes. Organizing staff training. Rema
 **Office administration/Reception positions - Various Temping agencies (2007-2008)**
 Quickly adapting to new environments. Learn new procedures in short periods of time. Work under minimal instruction and supervision. 
 
-**Office Administrative Assistant – BCC Adult Education - Brasshouse Language Centre**
+**Office Administrative Assistant – BCC Adult Education - Brasshouse Language Centre (2006-2007)**
 Working with the Heads of Departments I undertook regular administrative duties. Responsible for creating the Company Newsletter, pamphlets, bulletins, and notices (electronic and hard copies) for the Centre.
 
-**Administration Assistant – Birmingham City Council (BCC Children’s Education)**
+**Administration Assistant – Birmingham City Council (BCC Children’s Education) (2005-2006)**
 Dealing with 1st stage application process including telephone queries. Responsible for processing CRB / DBS Forms. Ensure accuracy of all forms before the employment start date. Create and utilize databases using internal systems.
 
-__Information Officer  – Birmingham & Solihull Mental Health NHS Trust__
+__Information Officer  – Birmingham & Solihull Mental Health NHS Trust(2004-2005)__
 Research Produce materials Senior Trust members. Purchasing. Annual Budget control. Liaising with executives within Healthcare. Conducting 1st stage (long-listing) applications. Microsoft Access, MS office, AQUA and ABS, Delphi Millennium, ePex. Strong organizational skills.
 
 __Trainee Manager  -  IPG ImportsLtd (2004)__
