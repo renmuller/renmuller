@@ -85,5 +85,3 @@ Sort prescriptions. Assist and advise customers on over-the-counter healthcare p
 __ICT & Activity Instructor - Kingswood Activity Centre (2001-2003)__
 ICT Instructor. Teaching basic HTML and Robotics to KS3 level school groups. Becoming Group Lead and Project Lead.
 
-__Retail – (1999 – 2001)__		
-		
