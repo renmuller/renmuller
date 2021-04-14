@@ -7,7 +7,7 @@ My name is Karen and I am an inquisitive, optimistic Github newbie. A fan of all
 - 👯 I’m looking to collaborate on improving my internet visibility via social media, vlog posts etc.
 - 🤔 I’m looking for help with starting a career in AWS.
 - 💬 Ask me about: anything - but you can also take a look at my CV down below.
-- 📫 How to reach me: www.linkedin.com/in/karen-m-muller
+- 📫 How to reach me: www.linkedin.com/in/karen-m-muller or email me at: renmuller121@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact 1: I have studied in England, Jamaica, India and Austria.
 - ⚡ Fun fact 2: I actually have 3 x OCP-Java qualifications (from a while back)...but never used it 👀 (Need a complete update - a refresher course is on my ToDo list!)👌
