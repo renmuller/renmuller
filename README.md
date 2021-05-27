@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Karen and I am a tech enthusiast. I have a particular interest in Cloud systems and will soon qualify as a Certified Cloud Practitioner. I enjoy learning new languages (human and computer) and am currently deep-diving into AWS (Amazon Web Services) and Python. 
+My name is Karen and I am a tech enthusiast. I have a particular interest in Cloud systems and am an AWS Certified Cloud Practitioner. I enjoy learning new languages (human and computer) and am currently deep-diving into AWS (Amazon Web Services) and Python. 
 
-- 🔭 I’m working on: attaining my AWS Certified Cloud Practitioner qualification
-- 🌱 I’m currently learning: Python, Linux Bash Shell (as well as AWS) at TechTalent Academy
+- 🔭 I’m working on: uploading my projects onto Github
+- 🌱 I’m currently learning: Ruby on Rails
 - 👯 I’m looking to collaborate on: improving my internet visibility via social media, vlog posts etc.
 - 🤔 I’m looking for help with: starting a career Tech.
 - 💬 Ask me about: anything (but you can also take a look at my CV down below)!
@@ -50,6 +50,7 @@ EJB, Visual Basic / VB.NET, Delphi Millennium/ ePex, MS Office Access, Excel, Wo
 Data Protection, Risk Management, Incident Reporting, Conflict Management, Equality & Diversity, First Aid, AED and Infant First Aid, Health & Safety, Fire Safety, Infection Control, Manual Handling.
 
 #### COMMUNICATION & LEADERSHIP ####
+
 Previous experience teaching classes of students aged 8-21. Alongside leading classes of school groups and adults in basic HTML and Robotics using IR robots, I also taught active lessons in Fencing, Archery (as a Qualified Fencing Instructor with the British Fencing Association and a Qualified Archery Leader) and in Team Building exercises. More recently, I have held the position of Vocal Director of a multi-national Community Choir in Vienna, Austria, teaching vocal warm-up techniques, section leads and group harmonies. I have advanced writing and administration skills, experienced in Project Management, interviewing job applicants, good research skills and experience in content creation. Displaying excellent interpersonal skills, I am comfortable with public speaking or as an Executive or Client liaison. With an eye for detail and identifying customer needs, I am a resourceful team player. Committed to learning and developing myself with new skills and processes. I am experienced in key support roles for both public and private sectors, mainly Government Organisations such as BCC and the NHS. I know how to produce content of high quality to support team agendas. Able to handle sudden fluctuating workloads with minimal strain, maintaining calm under pressure and have experience creating and leading marketing campaigns for events.   
 
 #### EDUCATION ####
