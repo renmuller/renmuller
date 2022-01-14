@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Karen and I am a tech enthusiast. I have a particular interest in Cloud systems and am an AWS Certified Cloud Practitioner. I enjoy learning new languages (human and computer) and am currently deep-diving into AWS (Amazon Web Services) and Python. 
+My name is Karen and I am a tech enthusiast. I have a particular interest in Cloud systems and I am an AWS Certified Cloud Practitioner. I enjoy learning new languages (human and computer) and am currently deep-diving into AWS (Amazon Web Services) and Python. 
 
 - 🔭 I’m working on: uploading my projects onto Github / completing a CSIS course (Cyber Security Infrastructure Specialist) / becoming an Appian Certified Associate Developer
 - 🌱 I’m currently learning: Ruby on Rails / Kotlin
