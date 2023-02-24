@@ -5,12 +5,12 @@ My name is Karen and I am a tech enthusiast. I have a particular interest in Clo
 - 🔭 I’m working on: uploading my projects onto Github / completing a CSIS course (Cyber Security Infrastructure Specialist) / becoming an Appian Certified Associate Developer
 - 🌱 I’m currently learning: Ruby on Rails / Kotlin
 - 👯 I’m looking to collaborate on: improving my internet visibility via social media, vlog posts etc.
-- 🤔 I’m looking for help with: my Tech career.
+- 🤔 I’m looking for help with: which language and framework to specialise in.
 - 💬 Ask me about: anything (but you can also take a look at my CV down below)!
 - 📫 How to reach me: www.linkedin.com/in/karen-m-muller or email me at: renmuller121@gmail.com
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact 1: I have studied and lived in England, Jamaica, India and Austria.
-- ⚡ Fun fact 2: I actually have 3 x OCP-Java qualifications (from a while back)...but never used it 👀 (Need a complete update - a refresher course is on my ToDo list!)👌
+- ⚡ Fun fact 2: I actually have 3 x OCP-Java qualifications (from a while back)...but never used it 👀 (Need a complete update - a refresher course is on my To-Do list!)👌
 
  # KAREN MÜLLER #
 
